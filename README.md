@@ -14,7 +14,7 @@ sudo aptitude install libenchant-dev
 Then install this package with `go get`:
 
 ```bash
-go get github.com/hermanschaaf/enchant
+go get github.com/ludeer22/enchant
 ```
 
 ### Usage
@@ -26,7 +26,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hermanschaaf/enchant"
+	"github.com/ludeer22/enchant"
 )
 
 func main() {
